@@ -15,6 +15,7 @@ body {
 .redes {
     text-align: center; 
     padding: 20px 0; 
+    text-decoration: none;
 }
 
 .txtredes{
@@ -32,8 +33,9 @@ body {
     font-size: 30px;
     color: #000000;
     text-decoration: none;
+}.link a{
+    text-decoration: none;
 }
-
 .logo {
     width: 150px; 
     height: auto; 
@@ -53,6 +55,7 @@ h1 {
     margin-bottom: 10px; 
     font-weight: 300;
     letter-spacing: 1PX;
+    text-decoration: none;
 }
 .Slink a {
     text-decoration: none !important; 
@@ -60,7 +63,7 @@ h1 {
 h3 {
     font-size: 20px;
     font-weight: 300;
-
+    text-decoration: none;
     letter-spacing: 2PX;
 
 }
