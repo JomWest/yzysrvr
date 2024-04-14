@@ -50,7 +50,7 @@ footer {
     margin-top: auto; 
 }
 h1 {
-    font-size: 22px;
+    font-size: 18px;
     gap: 5px;
     margin-bottom: 10px; 
     font-weight: 300;
@@ -61,7 +61,7 @@ h1 {
     text-decoration: none !important; 
 }
 h3 {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 300;
     text-decoration: none;
     letter-spacing: 2PX;
