@@ -24,7 +24,7 @@ body {
     letter-spacing: 1PX;
 }
 .name{
-    margin-top: -25px;
+    margin-top: -5px;
     font-size: 22px;
     font-weight: 500;
     letter-spacing: 0.1rem;
@@ -67,3 +67,20 @@ h3 {
     letter-spacing: 2PX;
 
 }
+.icon {
+    width: 20px; 
+    height: 20px;
+    margin-right: 10px; 
+}
+
+.txtredes img {
+    filter: hue-rotate(0deg); 
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
+
