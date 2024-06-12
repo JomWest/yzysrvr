@@ -19,6 +19,7 @@ body {
 }
 
 .txtredes{
+    color: #0a29b6;
     font-size: 35px;
     font-weight: 600;
     letter-spacing: 1PX;
@@ -28,10 +29,11 @@ body {
     font-size: 22px;
     font-weight: 500;
     letter-spacing: 0.1rem;
+    color: #0a29b6;
 }
 .Slink{
     font-size: 30px;
-    color: #000000;
+    color: #0a29b6; 
     text-decoration: none;
 }.link a{
     text-decoration: none;
@@ -41,9 +43,24 @@ body {
     height: auto; 
 }
 
+#loader {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+#loader video {
+    width: 100%;
+    height: auto;
+}
+
 footer {
     background-color: #fff; 
-    color: #000000; 
+    color: #0a29b6; 
     text-align: center; 
     padding: 20px 0;
     font-weight: 400;
