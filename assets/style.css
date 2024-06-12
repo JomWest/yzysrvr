@@ -26,8 +26,8 @@ body {
 }
 .name{
     margin-top: -5px;
-    font-size: 22px;
-    font-weight: 500;
+    font-size: 30px;
+    font-weight: 560;
     letter-spacing: 0.1rem;
     color: #0a29b6;
 }
@@ -39,7 +39,7 @@ body {
     text-decoration: none;
 }
 .logo {
-    width: 150px; 
+    width: 120px; 
     height: auto; 
 }
 
